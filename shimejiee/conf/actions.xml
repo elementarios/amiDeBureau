@@ -97,7 +97,7 @@
 			</Animation>
 		</Action>
 
-		<!-- Laying -->
+		<!--   -->
 
 		<Action Name="Sprawl" Type="Stay" BorderType="Floor">
 			<Animation>
@@ -115,7 +115,7 @@
 			</Animation>
 		</Action>
 
-		<!-- Ceiling -->
+		<!-- Ceiling/Haut de l'ecran -->
 
 		<Action Name="GrabCeiling" Type="Stay" BorderType="Ceiling">
 			<Animation>
@@ -136,7 +136,7 @@
 			</Animation>
 		</Action>
 
-		<!-- Wall -->
+		<!-- Wall/Coté de l'ecran -->
 
 		<Action Name="GrabWall" Type="Stay" BorderType="Wall">
 			<Animation>
